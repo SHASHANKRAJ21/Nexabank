@@ -1,0 +1,17 @@
+{
+    "java.jdt.ls.lombokSupport.enabled": true,
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.import.maven.enabled": true,
+    "java.autobuild.enabled": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "spring-boot.ls.problem.application-properties.PROP_UNKNOWN_PROPERTY": "IGNORE",
+    "jdk.project.jdkhome": "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.19.10-hotspot",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.19.10-hotspot",
+            "default": true
+        }
+    ]
+}
